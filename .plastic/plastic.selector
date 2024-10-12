@@ -1,0 +1,4 @@
+repository "ARMONIA@PAYANG@cloud"
+  path "/"
+    br "/main"
+    co "/main"
