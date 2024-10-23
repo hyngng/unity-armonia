@@ -25,6 +25,6 @@ classDiagram
     NonLiving <|-- Bench
 ```
 
-[Living](https://github.com/hyngng/unity-armonia/blob/master/Assets/Scripts/Living/Living.cs) 부모 클래스를 만들고 [People](https://github.com/hyngng/unity-armonia/blob/master/Assets/Scripts/Living/People/People.cs)이나 [Pigeon](https://github.com/hyngng/unity-armonia/blob/master/Assets/Scripts/Living/Pigeon/Pigeon.cs) 등의 하위 클래스에서 참조하도록 만들었습니다.
+[Living](https://github.com/hyngng/unity-armonia/blob/master/Assets/Scripts/Living/Living.cs) 부모 클래스를 만들고 [People](https://github.com/hyngng/unity-armonia/blob/master/Assets/Scripts/Living/People/People.cs), [Pigeon](https://github.com/hyngng/unity-armonia/blob/master/Assets/Scripts/Living/Pigeon/Pigeon.cs) 등의 하위 클래스에서 참조하도록 만들었습니다.
 
-이 구조는 [NonLiving](https://github.com/hyngng/unity-armonia/blob/master/Assets/Scripts/Non-Living/NonLiving.cs)와 이를 참조하는 [UtilityPole](https://github.com/hyngng/unity-armonia/blob/master/Assets/Scripts/Non-Living/UtilityPole.cs) 및 [VendingMachine](https://github.com/hyngng/unity-armonia/blob/master/Assets/Scripts/Non-Living/VendingMachine.cs)도 동일합니다.
+이 구조는 [NonLiving](https://github.com/hyngng/unity-armonia/blob/master/Assets/Scripts/Non-Living/NonLiving.cs), [UtilityPole](https://github.com/hyngng/unity-armonia/blob/master/Assets/Scripts/Non-Living/UtilityPole.cs) 및 [VendingMachine](https://github.com/hyngng/unity-armonia/blob/master/Assets/Scripts/Non-Living/VendingMachine.cs)도 동일합니다.
