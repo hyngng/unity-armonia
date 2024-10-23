@@ -1,3 +1,5 @@
+# README.md는 작성중!
+
 ## **2.5D 횡스크롤 형식의 비주얼 구경하는 게임**
 
 > **자세한 사항은 [블로그](https://hyngng.github.io//posts/armonia-developing-cancelled/)에서 확인할 수 있습니다!**
