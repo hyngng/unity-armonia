@@ -1,21 +1,11 @@
-## **2.5D 횡스크롤 비주얼 게임**
+## **2.5D 횡스크롤 형식의 비주얼 구경하는 게임**
 
-> 자세한 사항은 [블로그](https://hyngng.github.io//posts/armonia-developing-cancelled/)에서 확인할 수 있습니다!
+> **자세한 사항은 [블로그](https://hyngng.github.io//posts/armonia-developing-cancelled/)에서 확인할 수 있습니다!**
 
 ## **무엇을 만들었나**
 
 ```mermaid
 classDiagram
-    class MainManager {
-        + State: Phase
-        + SelectedObject: GameObject
-        + ActivatedObject: GameObject
-    }
-    class ObjectGenerator {
-        + Livings: List~GameObject~
-        + NonLivings: List~GameObject~
-        + Population: Dictionary~string,int~
-    }
     class Living {
         + IsSelected: bool
         + IsActivated: bool
