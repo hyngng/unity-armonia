@@ -31,4 +31,5 @@
 
 <br>
 
-**후일담은 [이곳](https://hyngng.github.io//posts/armonia-developing-cancelled/)에서 더 자세히 확인할 수 있습니다!**
+# **후일담**
+- [](https://hyngng.github.io//posts/armonia-developing-cancelled/)에서 더 자세히 확인할 수 있습니다!**
