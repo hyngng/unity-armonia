@@ -1,10 +1,8 @@
-# README.md는 작성중!
-
-## **2.5D 횡스크롤 형식의 비주얼 구경하는 게임**
+# **2.5D 횡스크롤 형식의 비주얼 구경하는 게임**
 
 ![gameplay](https://cdn.jsdelivr.net/gh/hyngng/hyngng.github.io.resources@master/2024-10-23-armonia-developing-cancelled/gameplay.webp)
 
-## **주요 특징**
+# **주요 특징**
 
 - **개념적 설명**
     - 단순히 플레이어가 아무 조작을 하지 않아도 씬 내의 오브젝트들이 알아서 서로 상호작용하는 환경을 제공하여, 점수나 게임 종료 조건 없이 단순히 구경하며 돌아다니기만 하는 게임임.
@@ -17,7 +15,7 @@
     - 직접 제작한 이미지와 애니메이션 애셋
     - 컷 애니메이션과 애니메이터 컴포넌트를 혼합
  
-## **작성한 주요 코드**
+# **작성한 주요 코드**
 
 - [MainManager.cs](https://github.com/hyngng/unity-armonia/blob/master/Assets/Scripts/System/MainManager.cs)
 - [MapGenerator.cs](https://github.com/hyngng/unity-armonia/blob/master/Assets/Scripts/System/MapGenerator.cs)
@@ -29,31 +27,6 @@
     - [UtilityPole.cs](https://github.com/hyngng/unity-armonia/blob/master/Assets/Scripts/Non-Living/UtilityPole.cs)
     - [BendingMachine](https://github.com/hyngng/unity-armonia/blob/master/Assets/Scripts/Non-Living/VendingMachine.cs)
 
+# **더 보기**
+
 **후일담은 [이곳](https://hyngng.github.io//posts/armonia-developing-cancelled/)에서 더 자세히 확인할 수 있습니다!**
-
-<!--
-## **무엇을 만들었나**
-
-```mermaid
-classDiagram
-    class Living {
-        + IsSelected: bool
-        + IsActivated: bool
-        + Speed: float
-    }
-    class NonLiving {
-        + InteractionDistance: float
-        + ObjectAttractCycle: float
-        + Feature: List~Sprite~
-    }
-
-    Living <|-- People
-    Living <|-- Pigeon
-    NonLiving <|-- VendingMachine
-    NonLiving <|-- Bench
-```
-
-[Living](https://github.com/hyngng/unity-armonia/blob/master/Assets/Scripts/Living/Living.cs) 부모 클래스를 만들고 [People](https://github.com/hyngng/unity-armonia/blob/master/Assets/Scripts/Living/People/People.cs), [Pigeon](https://github.com/hyngng/unity-armonia/blob/master/Assets/Scripts/Living/Pigeon/Pigeon.cs) 등의 하위 클래스에서 참조하도록 만들었습니다.
-
-이 구조는 [NonLiving](https://github.com/hyngng/unity-armonia/blob/master/Assets/Scripts/Non-Living/NonLiving.cs), [UtilityPole](https://github.com/hyngng/unity-armonia/blob/master/Assets/Scripts/Non-Living/UtilityPole.cs) 및 [VendingMachine](https://github.com/hyngng/unity-armonia/blob/master/Assets/Scripts/Non-Living/VendingMachine.cs)도 동일합니다.
--->
