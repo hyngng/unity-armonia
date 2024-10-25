@@ -29,6 +29,6 @@
     - [UtilityPole.cs](https://github.com/hyngng/unity-armonia/blob/master/Assets/Scripts/Non-Living/UtilityPole.cs)
     - [BendingMachine.cs](https://github.com/hyngng/unity-armonia/blob/master/Assets/Scripts/Non-Living/VendingMachine.cs)
 
-# **더 보기**
+<br>
 
 **후일담은 [이곳](https://hyngng.github.io//posts/armonia-developing-cancelled/)에서 더 자세히 확인할 수 있습니다!**
