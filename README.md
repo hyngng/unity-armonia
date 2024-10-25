@@ -21,11 +21,11 @@
 - [MapGenerator.cs](https://github.com/hyngng/unity-armonia/blob/master/Assets/Scripts/System/MapGenerator.cs)
 - [ObjectGenerator.cs](https://github.com/hyngng/unity-armonia/blob/master/Assets/Scripts/System/ObjectGenerator.cs)
 - [Living.cs](https://github.com/hyngng/unity-armonia/blob/master/Assets/Scripts/Living/Living.cs)
-    - [People](https://github.com/hyngng/unity-armonia/blob/master/Assets/Scripts/Living/People/People.cs)
-    - [Pigeon](https://github.com/hyngng/unity-armonia/blob/master/Assets/Scripts/Living/Pigeon/Pigeon.cs)
+    - [People.cs](https://github.com/hyngng/unity-armonia/blob/master/Assets/Scripts/Living/People/People.cs)
+    - [Pigeon.cs](https://github.com/hyngng/unity-armonia/blob/master/Assets/Scripts/Living/Pigeon/Pigeon.cs)
 - [NonLiving.cs](https://github.com/hyngng/unity-armonia/blob/master/Assets/Scripts/Non-Living/NonLiving.cs)
     - [UtilityPole.cs](https://github.com/hyngng/unity-armonia/blob/master/Assets/Scripts/Non-Living/UtilityPole.cs)
-    - [BendingMachine](https://github.com/hyngng/unity-armonia/blob/master/Assets/Scripts/Non-Living/VendingMachine.cs)
+    - [BendingMachine.cs](https://github.com/hyngng/unity-armonia/blob/master/Assets/Scripts/Non-Living/VendingMachine.cs)
 
 # **더 보기**
 
