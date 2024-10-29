@@ -17,7 +17,7 @@
     - 직접 제작한 이미지와 애니메이션 애셋
     - 컷 애니메이션과 애니메이터 컴포넌트를 혼합
  
-# **작성한 주요 코드**
+# **주요 코드**
 
 - [MainManager.cs](https://github.com/hyngng/unity-armonia/blob/master/Assets/Scripts/System/MainManager.cs)
 - [MapGenerator.cs](https://github.com/hyngng/unity-armonia/blob/master/Assets/Scripts/System/MapGenerator.cs)
