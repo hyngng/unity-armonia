@@ -18,7 +18,7 @@
     - 컷 애니메이션과 애니메이터 컴포넌트를 혼합
   
 # **후일담**
-- [게임 기획하기](https://hyngng.github.io//posts/armonia-developing-cancelled/)
+- [게임 기획하기](https://hyngng.github.io/posts/armonia-planning/) 
 - [첫 번째 개발기](https://hyngng.github.io/posts/armonia-developing-first/)
 - [두 번째 개발기](https://hyngng.github.io/posts/armonia-developing-second/)
 - [개발은 여기까지로](https://hyngng.github.io/posts/armonia-developing-cancelled/)
