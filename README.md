@@ -16,20 +16,9 @@
 - **아트 관련해서 시도한 것들**
     - 직접 제작한 이미지와 애니메이션 애셋
     - 컷 애니메이션과 애니메이터 컴포넌트를 혼합
- 
-# **주요 코드**
-
-- [MainManager.cs](https://github.com/hyngng/unity-armonia/blob/master/Assets/Scripts/System/MainManager.cs)
-- [MapGenerator.cs](https://github.com/hyngng/unity-armonia/blob/master/Assets/Scripts/System/MapGenerator.cs)
-- [ObjectGenerator.cs](https://github.com/hyngng/unity-armonia/blob/master/Assets/Scripts/System/ObjectGenerator.cs)
-- [Living.cs](https://github.com/hyngng/unity-armonia/blob/master/Assets/Scripts/Living/Living.cs)
-    - [People.cs](https://github.com/hyngng/unity-armonia/blob/master/Assets/Scripts/Living/People/People.cs)
-    - [Pigeon.cs](https://github.com/hyngng/unity-armonia/blob/master/Assets/Scripts/Living/Pigeon/Pigeon.cs)
-- [NonLiving.cs](https://github.com/hyngng/unity-armonia/blob/master/Assets/Scripts/Non-Living/NonLiving.cs)
-    - [UtilityPole.cs](https://github.com/hyngng/unity-armonia/blob/master/Assets/Scripts/Non-Living/UtilityPole.cs)
-    - [BendingMachine.cs](https://github.com/hyngng/unity-armonia/blob/master/Assets/Scripts/Non-Living/VendingMachine.cs)
-
-<br>
-
+  
 # **후일담**
-- [](https://hyngng.github.io//posts/armonia-developing-cancelled/)에서 더 자세히 확인할 수 있습니다!**
+- [게임 기획하기](https://hyngng.github.io//posts/armonia-developing-cancelled/)
+- [첫 번째 개발기](https://hyngng.github.io/posts/armonia-developing-first/)
+- [두 번째 개발기](https://hyngng.github.io/posts/armonia-developing-second/)
+- [개발은 여기까지로](https://hyngng.github.io/posts/armonia-developing-cancelled/)
