@@ -18,7 +18,7 @@
     - Custom-Made Images and Animation Assets
     - Mixing Cutscenes with Animator Components
   
-## **Post-Development Notes**
+## **Post-Development Notes (written in Korean)**
 1. [Game Planning](https://hyngng.github.io/posts/armonia-planning/) 
 2. [First Development Phase](https://hyngng.github.io/posts/armonia-developing-first/)
 3. [Second Development Phase](https://hyngng.github.io/posts/armonia-developing-second/)
