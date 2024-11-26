@@ -2,7 +2,7 @@
 
 ![gameplay](https://cdn.jsdelivr.net/gh/hyngng/hyngng.github.io.resources@master/2024-10-23-armonia-developing-cancelled/gameplay.webp)
 
-**If you don't know Korean, [English suppoprt](https://github.com/hyngng/unity-armonia/blob/master/README-en.md) is here.**
+**If you don't know Korean, [English translation](https://github.com/hyngng/unity-armonia/blob/master/README-en.md) is here.**
 
 ## **주요 특징**
 - **개념적 설명**
