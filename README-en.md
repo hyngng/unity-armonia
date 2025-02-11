@@ -1,8 +1,8 @@
 ## **2.5D Side-Scrolling Visual Exploration Game**
 
-**[Korean](https://github.com/hyngng/unity-armonia/blob/master/README.md)** | **English**
-
 ![gameplay](https://cdn.jsdelivr.net/gh/hyngng/hyngng.github.io.resources@master/2024-10-23-armonia-developing-cancelled/gameplay.webp)
+
+**[Korean](https://github.com/hyngng/unity-armonia/blob/master/README.md)** | **[English](https://github.com/hyngng/unity-armonia/blob/master/README-en.md)**
 
 ## **Key Features**
 
